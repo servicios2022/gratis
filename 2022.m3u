@@ -12,19 +12,23 @@ https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/24_Horas_TVN_corto.png" group-title="CHILE",24 Horas HD
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/24_Horas_TVN_corto.png" group-title="CHILE",24 Horas HD
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EqfxvtV.png" group-title="CHILE",Ahora Noticias HD
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",Tv+
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",Tv+ Diferido
 https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXwpqm.png" group-title="CHILE",UCV HD
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="979" tvg-name="13 Entretencion" tvg-logo="https://www.m3u.cl/logo/979_13_Entretencion.png" group-title="CHILE", 13 Entretencion 
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1033" tvg-name="13 Prime" tvg-logo="https://www.m3u.cl/logo/1033_13_Prime.png" group-title="CHILE", 13 Prime 
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://www.m3u.cl/logo/1032_13_Teleseries.png" group-title="CHILE", 13 Teleseries 
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE",Telecanal Talca
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE",Telecanal Talca
-https://unlimited2-cl.dps.live/tctc/tctc.smil/tctc/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="CHILE",CNN Chile HD 
-http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/984897951024713729/HyC8AIMf.jpg" group-title="CHILE" ,Santiago Tv
 https://stv.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15220774751.png" group-title="CHILE", Tendencias TV 
