@@ -16,6 +16,8 @@ http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?xtreamiptv.
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EqfxvtV.png" group-title="CHILE",Ahora Noticias HD
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="CHILE", T13
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",Tv+
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",Tv+ Diferido
@@ -28,33 +30,17 @@ https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
 https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://www.m3u.cl/logo/1032_13_Teleseries.png" group-title="CHILE", 13 Teleseries 
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/984897951024713729/HyC8AIMf.jpg" group-title="CHILE" ,Santiago Tv
 https://stv.janus.cl/playlist/stream.m3u8
-#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15220774751.png" group-title="CHILE", Tendencias TV 
-https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C6kAEvl.png" group-title="CHILE",TVR HD
-https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vKDG166.png" group-title="CHILE", TV Salud 
-http://hd.chileservidores.cl:8080/tvsalud/tvsalud/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ceacuchile.cl/wp-content/uploads/2018/06/Logotipo-CEAC-y-OSNCh-Color.png" group-title="CHILE", Centro de Extensión Cultural de la Chile
-https://videostreaming.cloudserver.cl/8002/8002/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Teleton_Chile_Logo.svg/1200px-Teleton_Chile_Logo.svg.png" group-title="CHILE",Teleton Tv
-https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistM3UCL
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg" group-title="CHILE",Tv Senado HD 
+https://janus-tv-ply.senado.cl/playlist/stream_hls.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/x3dL9pm.jpg" group-title="CHILE", Canal Diputados
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg" group-title="CHILE",Tv Senado 1 HD 
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
-#EXTINF:-1 tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg" group-title="CHILE",Tv Senado 2 SD 
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logolatercera2017.png/517px-Logolatercera2017.png" group-title="CHILE",la Tercera
-http://unlimited5-cl.dps.live/lt/lt.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/La_Cuarta_-_Logo_2017.svg/1280px-La_Cuarta_-_Logo_2017.svg.png" group-title="CHILE",La Cuarta
-http://unlimited6-cl.dps.live/l4tv/l4tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://noticias.unab.cl/wp-content/uploads/2018/06/EMOL-TV-Directora-del-Diplomado-de-Habilidades-Laborales-de-UNAB.jpg" group-title="CHILE",Emol TV
-https://streaming.ecn.cl/hls/vivo2hd_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://noticias.unab.cl/wp-content/uploads/2018/06/EMOL-TV-Directora-del-Diplomado-de-Habilidades-Laborales-de-UNAB.jpg" group-title="CHILE",Emol TV 2
-https://streaming.ecn.cl/hls/vivohd_lo/index.m3u8
+#EXTINF:-1 tvg-id="908" tvg-name="Convencion Constitucional" tvg-logo="https://www.m3u.cl/logo/908_Convencion_Constitucional.png" group-title="CHILE", Convencion Constitucional 
+https://mdstrm.com/live-stream-playlist/60d1f10fdacfa008348d71d2.m3u8?PlaylistM3UCL
+
 
 #EXTINF:0,-CINE-
 
