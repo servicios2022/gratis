@@ -1489,6 +1489,8 @@ http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?xtreamiptv.
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ANmega2015.png/207px-ANmega2015.png" group-title="CHILE",Ahora Noticias | CL
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-id="449" tvg-name="Meganoticias" tvg-logo="https://www.m3u.cl/logo/449_Meganoticias.png"  group-title="CHILE" , Meganoticias | CL
+http://www.m3u.cl/channel/meganoticias.php
 #EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="CHILE", T13 | CL
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",Tv+ | CL
@@ -3379,34 +3381,8 @@ https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8
 https://5eae379fb77bb.streamlock.net:443/roberto886/roberto886/playlist.m3u8
 #EXTINF:-1 tvg-id="881" tvg-name="Wapp" tvg-logo="https://www.m3u.cl/logo/881_Wapp.jpg"  group-title="REGIONALES" , Wapp | CL
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
-#EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://www.m3u.cl/logo/790_La_Red.jpg"  group-title="REGIONALES" , La Red | CL
-https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://www.m3u.cl/logo/458_TV_.png"  group-title="REGIONALES" , TV+ | CL
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-#EXTINF:-1 tvg-id="459" tvg-name="TV+ Diferido" tvg-logo="https://www.m3u.cl/logo/459_TV__Diferido.png"  group-title="REGIONALES" , TV+ Diferido | CL
-https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8
-#EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://www.m3u.cl/logo/452_TVN.png"  group-title="REGIONALES" , TVN | CL
-https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="453" tvg-name="TVN - 24h" tvg-logo="https://www.m3u.cl/logo/453_TVN___24h.png"  group-title="REGIONALES" , TVN - 24h | CL
-http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
-#EXTINF:-1 tvg-id="454" tvg-name="TVN - Reuters" tvg-logo="https://www.m3u.cl/logo/454_TVN___Reuters.png"  group-title="REGIONALES" , TVN - Reuters | CL
-https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
-#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://www.m3u.cl/logo/455_Mega.png"  group-title="REGIONALES" , Mega | CL
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="456" tvg-name="CHV" tvg-logo="https://www.m3u.cl/logo/456_CHV.png"  group-title="REGIONALES" , CHV | CL
-https://unlimited1-cl-isp.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png"  group-title="REGIONALES" , Canal 13 | CL
-https://cl-canal13-13now-live.ned.media/live.m3u8
-#EXTINF:-1 tvg-id="979" tvg-name="13 Entretencion" tvg-logo="https://www.m3u.cl/logo/979_13_Entretencion.png"  group-title="REGIONALES" , 13 Entretencion | CL
-https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="1033" tvg-name="13 Prime" tvg-logo="https://www.m3u.cl/logo/1033_13_Prime.png"  group-title="REGIONALES" , 13 Prime | CL
-https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://www.m3u.cl/logo/1032_13_Teleseries.png"  group-title="REGIONALES" , 13 Teleseries | CL
-https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://www.m3u.cl/logo/1017_U_Chile_TV.png"  group-title="REGIONALES" , U Chile TV | CL
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="UCV" tvg-logo="https://www.m3u.cl/logo/54_UCV.png"  group-title="REGIONALES" , UCV | CL
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="STGO.TV" tvg-logo="https://www.m3u.cl/logo/53_STGO_TV.png"  group-title="REGIONALES" , STGO.TV | CL
 https://stv.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="Campus TV" tvg-logo="https://www.m3u.cl/logo/55_Campus_TV.png"  group-title="REGIONALES" , Campus TV | CL
@@ -3427,24 +3403,12 @@ https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="UesTV" tvg-logo="https://www.m3u.cl/logo/62_UesTV.png"  group-title="REGIONALES" , UesTV | CL
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="445" tvg-name="Camara de Diputados" tvg-logo="https://www.m3u.cl/logo/445_Camara_de_Diputados.png"  group-title="REGIONALES" , Camara de Diputados | CL
-https://tls-cl.cdnz.cl/camara/live/playlist.m3u8
-#EXTINF:-1 tvg-id="444" tvg-name="TV Senado" tvg-logo="https://www.m3u.cl/logo/444_TV_Senado.png"  group-title="REGIONALES" , TV Senado | CL
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="443" tvg-name="Arab TV" tvg-logo="https://www.m3u.cl/logo/443_Arab_TV.png"  group-title="REGIONALES" , Arab TV | CL
 https://livefocamundo.com:8081/arabtv/index.m3u8
 #EXTINF:-1 tvg-id="442" tvg-name="CEAC TV" tvg-logo="https://www.m3u.cl/logo/442_CEAC_TV.png"  group-title="REGIONALES" , CEAC TV | CL
 https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8
 #EXTINF:-1 tvg-id="441" tvg-name="Teatro del Lago" tvg-logo="https://www.m3u.cl/logo/441_Teatro_del_Lago.png"  group-title="REGIONALES" , Teatro del Lago | CL
 https://mdstrm.com/live-stream-playlist/5eee24e3ed5b6d0761a11a31.m3u8
-#EXTINF:-1 tvg-id="447" tvg-name="TVN 24 Horas" tvg-logo="https://www.m3u.cl/logo/447_TVN_24_Horas.png"  group-title="REGIONALES" , TVN 24 Horas | CL
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-#EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas 2" tvg-logo="https://www.m3u.cl/logo/448_TVN_24_Horas_2.png"  group-title="REGIONALES" , TVN 24 Horas 2 | CL
-https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
-#EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://www.m3u.cl/logo/1054_T13.png"  group-title="REGIONALES" , T13 | CL
-https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="449" tvg-name="Meganoticias" tvg-logo="https://www.m3u.cl/logo/449_Meganoticias.png"  group-title="REGIONALES" , Meganoticias | CL
-http://www.m3u.cl/channel/meganoticias.php
 #EXTINF:-1 tvg-id="434" tvg-name="Teletón TV" tvg-logo="https://www.m3u.cl/logo/434_Teleton_TV.png"  group-title="REGIONALES" , Teletón TV | CL
 https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8
 #EXTINF:-1 tvg-id="895" tvg-name="RLOTV" tvg-logo="https://www.m3u.cl/logo/895_RLOTV.png"  group-title="REGIONALES" , RLOTV | CL
@@ -3643,8 +3607,6 @@ https://v2.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
 http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 #EXTINF:-1 tvg-id="470" tvg-name="Zee Mundo" tvg-logo="https://www.m3u.cl/logo/470_Zee_Mundo.png"  group-title="REGIONALES" , Zee Mundo | CL
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/index-1639048929-now.m3u8
-#EXTINF:-1 tvg-id="491" tvg-name="TV Chile" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png"  group-title="REGIONALES" , TV Chile | CL
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png"  group-title="REGIONALES" , UCL Televisión LATAM | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="495" tvg-name="Canal Capital" tvg-logo="https://www.m3u.cl/logo/495_Canal_Capital.png"  group-title="REGIONALES" , Canal Capital | CO
@@ -4038,8 +4000,6 @@ https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8?PlaylistM3UCL
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="500" tvg-name="Telesur English" tvg-logo="https://www.m3u.cl/logo/500_Telesur_English.png" group-title="REGIONALES" , Telesur English | VE
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="491" tvg-name="TV Chile" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png" group-title="REGIONALES" , TV Chile | CL
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="515" tvg-name="TV Galicia America" tvg-logo="https://www.m3u.cl/logo/515_TV_Galicia_America.png" group-title="REGIONALES" , TV Galicia America | ES
 http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="502" tvg-name="TV Marti" tvg-logo="https://www.m3u.cl/logo/502_TV_Marti.png" group-title="REGIONALES" , TV Marti | CU
