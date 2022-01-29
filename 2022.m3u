@@ -1002,7 +1002,29 @@ http://181.78.22.214:8000/play/a01d
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,•●★-- CHILE --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://www.m3u.cl/logo/790_La_Red.jpg" group-title="CHILE", La Red | CL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/24_Horas_TVN_corto.png" group-title="CHILE",24 Horas | CL
+https://marine2.miplay.cl/24horas/mono.m3u8
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Canal-13-Logo.png" group-title="CHILE",Canal 13 | CL
+https://marine2.miplay.cl/canal13/mono.m3u8
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE",Chilevision | CL
+https://marine2.miplay.cl/chilevision/mono.m3u8
+#EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE", La Red | CL
+https://marine2.miplay.cl/lared/mono.m3u8
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://www.m3u.cl/logo/455_Mega.png" group-title="CHILE", Mega | CL
+https://marine2.miplay.cl/mega/mono.m3u8
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="CHILE",Mega plus | CL
+https://marine2.miplay.cl/megaplus/mono.m3u8
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/REC_TV_%28Julio-Septiembre_2015%29.png/revision/latest?cb=20170712210509&path-prefix=es" group-title="CHILE",Rec Tv | CL
+https://marine2.miplay.cl/rec/mono.m3u8
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://w7.pngwing.com/pngs/209/795/png-transparent-edificio-corporativo-de-television-nacional-de-chile-tvn-television-nacional-de-chile-television-24horas-cl-varela-santiago-children-s-hospital.png" group-title="CHILE",TVN | CL
+https://marine2.miplay.cl/tvn/mono.m3u8
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zona_Latina_2005.png/revision/latest/scale-to-width-down/350?cb=20190808202235&path-prefix=es" group-title="CHILE", Zona Latina | CL
+http://45.179.140.242:8000/play/a0jz
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zona_Latina_2005.png/revision/latest/scale-to-width-down/350?cb=20190808202235&path-prefix=es" group-title="CHILE", Zona Latina | CL
+http://181.78.22.214:8000/play/a01x
+
+#EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE", La Red | CL
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://www.m3u.cl/logo/455_Mega.png" group-title="CHILE", Mega | CL
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?
