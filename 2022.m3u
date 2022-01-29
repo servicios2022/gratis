@@ -12,21 +12,11 @@ https://v2.tustreaming.cl/entretelive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://opti.es/wp-content/uploads/2017/03/PREMIUM.png" group-title="PREMIUM" ,•●★-- PREMIUM --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",ESTRELLA
-http://162.212.179.22:9981/stream/channelid/701766463?ticket=D956AC7CFC8167260AA0B3CB014862A864C5A120&profile=pass
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",LATV
-http://162.212.179.22:9981/stream/channelid/1972459479?ticket=0A98C4925F13B9EBD3594E49076C396AB0C3F02F&profile=pass
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",LATV
-http://162.212.179.22:9981/stream/channelid/533085072?ticket=B80A512837860EBD66D380BC5FD5668F12E7DEA7&profile=pass
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",LATV
-http://162.212.179.22:9981/stream/channelid/1777728086?ticket=D1572C3B0DD1B2D2395594C47E1B155B7045CE12&profile=pass
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",UNIVISION
 http://162.212.179.22:9981/stream/channelid/900291939?ticket=28870B5310E73BC7E97D1ED6A9663A97AD50FAD1&profile=pass
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Unimas
 http://162.212.179.22:9981/stream/channelid/358793691?ticket=189EF33BE91663E632FACBA0487BBD3CECB6A1C3&profile=pass
 
-#EXTINF:-1 tvg-id="52065020b9a6996a57448e8598d3a4a3",WUPA-HD
-http://162.212.179.22:9981/stream/channelid/542115410?ticket=F610C8AC13E16C2C31BFD64FF85E7EBAC42A2317&profile=pass
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",TL Novelas
 http://45.6.4.50:50601/TELENOVELAS/index.m3u8
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Las Estrellas
