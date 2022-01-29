@@ -231,7 +231,7 @@ http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="PREMIUM", NATGEO
 http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
-#EXTINF:0 group-title="MUSICA" tvg-logo="https://pbs.twimg.com/profile_images/1144605579245211653/TcPUMMM__200x200.png" group-title="PREMIUM", MTV
+#EXTINF:0  tvg-logo="https://pbs.twimg.com/profile_images/1144605579245211653/TcPUMMM__200x200.png" group-title="PREMIUM", MTV
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHD/__op/hls-default/__f/index.m3u8
 
 
